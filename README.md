@@ -1,1 +1,1 @@
-# testrepo
+# bulus repository
